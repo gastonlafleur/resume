@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Erwann Chable de La Héronnière",
+    "label": "SAP Engineer",
+    "picture": "",
+    "email": "chable.erwann@gmail.com",
+    "phone": "+33660615513",
+    "website": "",
+    "summary": "A multi-skilled SAP Consultant (Technical and Functional with a Procurement specialization S2P). My priority is to make life easier for users by listening their needs. Clients: La Poste, Atos, Sogerma, Sabena, Darty, ADP (Paris Airports), Rhodia, DGAC, ...",
+    "location": {
+      "address": "4 Square Colette Besson",
+      "postalCode": "17690",
+      "city": "Angoulins",
+      "countryCode": "FR",
+      "region": "Charente-Maritime"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Erwann Chable de la Heronniere",
+        "url": "www.linkedin.com/in/erwann-chable-de-la-heronniere-65177369"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelance",
+      "position": "Sap Engineer",
+      "startDate": "2014-11-01",
+      "endDate": "9999-12-31",
+      "summary": "SI Procurement Transformation with Integration of iValua Buyer with SAP MM - oData services With Sap Gateway - Consuming REST API Technical and Functional Lead on SI Procurement (SAP SRM/MDM-MM, iValua Buyer) Merger of three SAP Systems (Module MM/SRM) SAP Upgrades Clients Trainings Develop and Test new requirements Technical and Functional testing"
+    },
+    {
+      "company": "Atos",
+      "position": "Sap Technical Engineer",
+      "startDate": "2011-09-01",
+      "endDate": "2014-09-30",
+      "summary": "Feasibility studies Developing business processes Solving issues TEAM ABAP Factory (Multiple clients, all SAP moduls)"
+    }
+  ],
+  "education": [
+    {
+      "institution": "SAP",
+      "area": "SAP Development",
+      "studyType": "SAP",
+      "startDate": "2017-12-01",
+      "endDate": "2017-12-01",
+      "gpa": "",
+      "courses": [
+        "Procurement Transformation with SAP Ariba and SAP S/4HANA"
+      ]
+    },
+    {
+      "institution": "La Poste",
+      "area": "Agile",
+      "studyType": "Coach",
+      "startDate": "2016-01-04",
+      "endDate": "2016-01-08",
+      "gpa": "",
+      "courses": [
+        "Agile, Scrum"
+      ]
+    },
+    {
+      "institution": "Master's degree MIAGE",
+      "area": "Université Bordeaux 1",
+      "studyType": "Master's",
+      "startDate": "2010-09-01",
+      "endDate": "2013-09-01",
+      "gpa": "",
+      "courses": [
+        "Computer Methods Applied to Business Management"
+      ]
+    },
+    {
+      "institution": "DUT GEA",
+      "area": "IUT Bordeaux Montesquieu",
+      "studyType": "Bachelor's",
+      "startDate": "2008-09-01",
+      "endDate": "2010-09-01",
+      "gpa": "",
+      "courses": [
+        "French Higher National Diploma in Business specializing in (accounting and finance)"
+      ]
+    },
+    
+  ],
+  "skills": [
+    {
+      "name": "Main",
+      "level": "Master",
+      "keywords": [
+        "Team Work",
+        "Knowledge sharing",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Technicals",
+      "level": "Master",
+      "keywords": [
+        "Jira, HP ALM, Mantis, Squash",
+        "ABAP OO",
+        "ABAP",
+        "SAP Gateway",
+        "REST API",
+        "JSON/XML",
+        "Workflow BRF",
+        "Webdynpro"
+      ]
+    },
+    {
+      "name": "Technicals",
+      "level": "",
+      "keywords": [
+        "Jira, HP ALM, Mantis, Squash",
+        "ABAP OO",
+        "ABAP",
+        "SAP Gateway",
+        "REST API",
+        "JSON/XML",
+        "Workflow BRF",
+        "Webdynpro",
+        "PI/PO",
+        "SPROXY",
+        "SMARTFORMS",
+        "CPI (SAP Trials for Developers)"
+      ]
+    },
+    {
+      "name": "Business",
+      "level": "",
+      "keywords": [
+        "Procurement",
+        "French Financial Accounting"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Toeic (850)"
+    },
+    {
+      "language": "French",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travel",
+      "keywords": [
+        "USA (California, New York, Nevada, Arizona, Utah, Florida), Canada, Thailand, Cambodia, Philippines, Indonesia, Jamaica, Seychelles, Italy, England, ..."
+      ]
+    },
+    {
+      "name": "Techs",
+      "keywords": [
+        "Development",
+        "Blockchain",
+        "NFT"
+      ]
+    }
+  ]
+}
